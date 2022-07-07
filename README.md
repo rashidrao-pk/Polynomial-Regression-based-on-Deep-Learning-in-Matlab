@@ -4,6 +4,8 @@ Polynomial Regression based on Deep Learning in Matlab
 ## Proposed Methodology:
 ![Figure](https://user-images.githubusercontent.com/25412736/177861631-7b5a10ec-22b0-4a3d-ad92-26083c41fabb.jpg)
 
+![1_Performance](https://user-images.githubusercontent.com/25412736/177862354-d9449311-2a09-4edb-8819-3ce12b22a0f7.png)
+
 
 <br>
 ![Learning Curves for Batch Gradient Decent](https://user-images.githubusercontent.com/25412736/177861644-b2d72c3d-18ac-49d4-ba8d-3d3cba0f855d.jpg)
